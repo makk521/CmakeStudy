@@ -2,3 +2,4 @@
 
 void fun1();
 
+extern int globalVar1;
